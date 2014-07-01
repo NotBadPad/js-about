@@ -1,0 +1,15 @@
+{
+	"data": [{
+		"id": "A01",
+		"name": "加多宝1",
+		"url": "http://static.cnblogs.com/images/logo_small.gif"
+	}, {
+		"id": "A02",
+		"name": "加多宝2",
+		"url": "http://static.cnblogs.com/images/logo_small.gif"
+	}, {
+		"id": "B03",
+		"name": "加多宝",
+		"url": "http://static.cnblogs.com/images/logo_small.gif"
+	}]
+}
